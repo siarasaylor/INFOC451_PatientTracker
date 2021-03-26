@@ -1,0 +1,9 @@
+1,ssaylor24,Siara,Saylor,CareSource,Fri Apr 30 00:00:00 EDT 2021,11:00,11:45,Dr. G Ward,Fishers,Preventitive,In Person,Review during appointment
+2,ssaylor24,Siara,Saylor,CareSource,Wed Mar 24 00:00:00 EDT 2021,9:00,9:45,Dr. K Smith,Fishers,Labs,Zoom,Review during appointment
+3,ssaylor24,Siara,Saylor,Fishers,Tue Mar 09 00:00:00 EST 2021,11:00,11:45,Dr. C Jones,Fishers,Labs,Zoom,Review during appointment
+1,ssaylor24,Siara,Saylor,Fishers,Fri Mar 12 00:00:00 EST 2021,10:00,10:45,Jones,CareSource,Preventative,In person,Has chest pains
+1,ssaylor24,Siara,Saylor,CareSource,Thu Apr 01 00:00:00 EDT 2021,1:15,2:00,Smith,Washington St,Preventative,In person,coughing since the weekend with headaches sneezing ear aches.
+1,ssaylor24,Siara,Saylor,Anthem,Wed Mar 24 00:00:00 EDT 2021,11:00,11:45,Dr. K Smith,Indianapolis,Labs,Zoom,Rash on right arm
+1,ssaylor24,Siara,Saylor,Anthem,Thu May 27 00:00:00 EDT 2021,1:30,2:15,Dr. K Smith,Indianapolis,Preventitive,Zoom,Review during appointment
+1,smanning19,Schuyler,Manning,CareSource,Wed May 19 00:00:00 EDT 2021,9:00,9:45,Dr. C Jones,Washington St,Preventitive,Zoom,Check Up Appointment
+1,jmanning17,Siara,Saylor,CareSource,Wed Mar 31 00:00:00 EDT 2021,11:00,11:45,Dr. C Jones,Fishers,Preventitive,In Person,Check up
